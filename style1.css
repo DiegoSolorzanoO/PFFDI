@@ -49,3 +49,30 @@
     background-attachment: fixed;
     margin-top: -13px;
 }
+
+.c1 ul{
+    text-align: center;
+    padding-top: 20px;
+}
+.c1 ul li{
+    list-style-type: none;
+    padding: 5px 0
+}
+
+.c2 ul{
+    text-align: center;
+    padding-top: 20px;
+}
+.c2 ul li{
+    list-style-type: none;
+    padding: 5px 0
+}
+
+.c3 ul{
+    text-align: center;
+    padding-top: 20px;
+}
+.c3 ul li{
+    list-style-type: none;
+    padding: 5px 0
+}
