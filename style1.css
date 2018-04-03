@@ -59,6 +59,10 @@
     padding: 5px 0
 }
 
+.c1 a {
+    color: black;
+}
+
 .c2 ul{
     text-align: center;
     padding-top: 20px;
