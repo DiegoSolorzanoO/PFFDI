@@ -44,4 +44,8 @@
 
 #banner {
     background: url(https://hardcore-hermann-21428c.netlify.com/media/warehouse.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin-top: -13px;
 }
