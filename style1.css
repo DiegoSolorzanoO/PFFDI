@@ -76,3 +76,16 @@
     list-style-type: none;
     padding: 5px 0
 }
+
+.c1 ul li a{
+    text-decoration: none;
+    color: #808080;
+}
+.c2 ul li a{
+    text-decoration: none;
+    color: #808080;
+}
+.c3 ul li a{
+    text-decoration: none;
+    color: #808080;
+}
